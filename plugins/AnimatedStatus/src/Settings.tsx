@@ -1,8 +1,10 @@
 import { Forms } from "@vendetta/ui/components";
 const { FormText } = Forms;
 
-export default () => (
-    <FormText>
-        Hello, world!
-    </FormText>
-)
+export default {
+  // Define your settings here
+  animationSpeed: 500,
+  darkMode: true,
+  showNotifications: false,
+  // ...
+}
