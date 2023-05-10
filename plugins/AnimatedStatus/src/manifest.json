@@ -1,0 +1,14 @@
+{
+    "name": "AnimatedStatus",
+    "description": "A plugin that makes your status auto change.",
+    "authors": [
+        {
+            "name": "AugustusXVIII",
+            "id": "318528448320634881"
+        }
+    ],
+    "main": "src/index.ts",
+    "vendetta": {
+        "icon": "ic_badge_staff"
+    }
+}
